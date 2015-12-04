@@ -9,7 +9,7 @@ setup(
  name="iosapplist",
  version="3.0.dev30",
  description="Lists installed iOS App Store apps.",
- url="http://code.s.zeid.me/iosapplist",
+ url="https://code.s.zeid.me/iosapplist",
  author="Scott Zeid",
  author_email="s@zeid.me",
  license="X11 License:  https://tldrlegal.com/license/x11-license",
